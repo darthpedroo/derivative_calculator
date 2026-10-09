@@ -1,5 +1,5 @@
 import unittest
-from main import MonomialExpression,PolynomialExpression
+from core.polynomials import PolynomialExpression, MonomialExpression
 
 class TestsMonomial(unittest.TestCase):
     
